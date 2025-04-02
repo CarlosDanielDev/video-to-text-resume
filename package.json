@@ -3,11 +3,19 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "transcribe": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "dotenv": "^16.4.7",
+    "openai": "^4.91.1",
+    "ora": "^8.2.0",
+    "progress": "^2.0.3"
+  }
 }
