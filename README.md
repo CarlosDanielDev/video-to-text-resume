@@ -1,4 +1,4 @@
-# VIDEO-Summarize
+# Video to text & resume
 
 ## Requirements
 
@@ -11,4 +11,3 @@ to run:
 ```bash
 npm run transcribe
 ```
-# video-to-text-resume
