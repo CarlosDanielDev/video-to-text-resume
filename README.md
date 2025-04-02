@@ -11,3 +11,4 @@ to run:
 ```bash
 npm run transcribe
 ```
+# video-to-text-resume
